@@ -1,0 +1,24 @@
+body {
+    padding-left: 80px;
+}
+
+.headings {
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.headings h1 {
+    font-size: 50px;
+}
+
+.headings h2 {
+    font-size: 35px;
+}
+
+.lyrics {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-bottom: 80px;
+}
